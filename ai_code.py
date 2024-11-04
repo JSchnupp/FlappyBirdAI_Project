@@ -14,7 +14,7 @@ FPS = 60  # Frames per second
 WN_WIDTH = 400
 WN_HEIGHT = 500
 WN = pygame.display.set_mode((WN_WIDTH, WN_HEIGHT))
-pygame.display.set_caption("Flappy Bird (AI Edition")  # Set window title
+pygame.display.set_caption("Flappy Bird (AI Edition)")  # Set window title
 
 # Load images and set dimensions
 BG = pygame.image.load("assets/bird_bg.png")  # Background image
